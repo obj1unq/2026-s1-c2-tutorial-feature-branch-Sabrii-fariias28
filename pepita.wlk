@@ -7,3 +7,16 @@ object pepita {
     energy = energy - minutes * 3
   }
 }
+
+//Traducir
+/*objeto pepita {
+
+  variable energia = 100
+
+  metodo energia() = energia
+
+  metodo fly(minutos){
+  energia = energia - minutos * 3
+  }
+}
+*/
